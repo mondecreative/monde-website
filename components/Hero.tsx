@@ -2,10 +2,10 @@ import Image from "next/image";
 import { ArrowButton } from "./ui";
 
 const heroImages = [
-  { src: "/final-images/hero/hero-01.jpg", alt: "Realistyczna kreacja produktowa beauty" },
+  { src: "/hero-01-final.png.png", alt: "Realistyczna kreacja produktowa beauty" },
   { src: "/outdoor-replace.png.jpg", alt: "Dynamiczna kreacja outdoorowa" },
-  { src: "/final-images/hero/hero-03.jpg", alt: "Premium visual do kampanii wnetrzarskiej" },
-  { src: "/final-images/hero/hero-04.jpg", alt: "Kreacja lifestyle dla marki modowej" },
+  { src: "/hero-03-final.png.png", alt: "Premium visual do kampanii wnetrzarskiej" },
+  { src: "/hero-03-final.png.png", alt: "Kreacja lifestyle dla marki modowej" },
 ];
 
 export function Hero() {

@@ -6,7 +6,7 @@ export function Footer() {
       <div className="shell flex flex-col gap-8 sm:flex-row sm:items-end sm:justify-between">
         <div>
           <Image
-            src="/images/logo-monde.png"
+            src="/logo-monde.png.webp"
             alt="Monde"
             width={541}
             height={80}

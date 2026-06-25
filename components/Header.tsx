@@ -20,7 +20,7 @@ export function Header() {
       <div className="shell flex h-16 items-center justify-between lg:h-[76px]">
         <a href="#" className="flex h-10 items-center" aria-label="Monde - strona glowna">
           <Image
-            src="/images/logo-monde.png"
+            src="/logo-monde.png.webp"
             alt="Monde"
             width={541}
             height={80}

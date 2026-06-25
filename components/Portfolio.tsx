@@ -7,8 +7,8 @@ const categories = [
     title: "Beauty & Cosmetics",
     description: "Selektywne koncepty beauty z naciskiem na fakturę produktu, światło, opakowanie i premium detal.",
     images: [
-      { src: "/images/portfolio/beauty/beauty-01.jpg", alt: "Beauty & Cosmetics concept visual 01" },
-      { src: "/images/portfolio/beauty/beauty-02.jpg", alt: "Beauty & Cosmetics concept visual 02" },
+      { src: "/beauty-01-final.png.png", alt: "Beauty & Cosmetics concept visual 01" },
+      { src: "/beauty-02-final.png.png", alt: "Beauty & Cosmetics concept visual 02" },
       { src: "/beauty-03-replace.png.png", alt: "Beauty & Cosmetics concept visual 03" },
       { src: "/beauty-04-replace.png.png", alt: "Beauty & Cosmetics concept visual 04" },
     ],
@@ -18,9 +18,9 @@ const categories = [
     description: "Editorialowe kadry, akcesoria i lifestyle visuals budujące elegancki świat marki.",
     images: [
       { src: "/fashion-replace-final.png", alt: "Fashion & Lifestyle concept visual 01" },
-      { src: "/images/portfolio/fashion/fashion-02.jpg", alt: "Fashion & Lifestyle concept visual 02" },
-      { src: "/images/portfolio/fashion/fashion-03.jpg", alt: "Fashion & Lifestyle concept visual 03" },
-      { src: "/images/portfolio/fashion/fashion-04.jpg", alt: "Fashion & Lifestyle concept visual 04" },
+      { src: "/fashion-02-final.png.png", alt: "Fashion & Lifestyle concept visual 02" },
+      { src: "/fashion-03-final.png.png", alt: "Fashion & Lifestyle concept visual 03" },
+      { src: "/fashion-04-final.png.png", alt: "Fashion & Lifestyle concept visual 04" },
     ],
   },
   {
@@ -28,9 +28,9 @@ const categories = [
     description: "Spokojne sceny wnętrzarskie, miękkie światło i kompozycje pokazujące produkt w premium kontekście.",
     images: [
       { src: "/interior-replace-final.png", alt: "Furniture & Interiors concept visual 01" },
-      { src: "/images/portfolio/interiors/interior-02.jpg", alt: "Furniture & Interiors concept visual 02" },
-      { src: "/images/portfolio/interiors/interior-03.jpg", alt: "Furniture & Interiors concept visual 03" },
-      { src: "/images/portfolio/interiors/interior-04.jpg", alt: "Furniture & Interiors concept visual 04" },
+      { src: "/furniture-02-final.png.png", alt: "Furniture & Interiors concept visual 02" },
+      { src: "/furniture-03-final.png.png", alt: "Furniture & Interiors concept visual 03" },
+      { src: "/furniture-04-final.png.png", alt: "Furniture & Interiors concept visual 04" },
     ],
   },
   {
@@ -38,9 +38,9 @@ const categories = [
     description: "Dynamiczne sceny outdoorowe z energią kampanii sportowych, gotowe do selektywnej prezentacji.",
     images: [
       { src: "/outdoor-replace-final.png", alt: "Outdoor & Sport concept visual 01" },
-      { src: "/images/portfolio/outdoor/outdoor-02.jpg", alt: "Outdoor & Sport concept visual 02" },
-      { src: "/images/portfolio/outdoor/outdoor-03.jpg", alt: "Outdoor & Sport concept visual 03" },
-      { src: "/images/portfolio/outdoor/outdoor-04.jpg", alt: "Outdoor & Sport concept visual 04" },
+      { src: "/outdoor-02-final.png.png", alt: "Outdoor & Sport concept visual 02" },
+      { src: "/outdoor-03-final.png.png", alt: "Outdoor & Sport concept visual 03" },
+      { src: "/outdoor-03-final.png.png", alt: "Outdoor & Sport concept visual 04" },
     ],
   },
 ];
