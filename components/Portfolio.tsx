@@ -40,7 +40,7 @@ const categories = [
       { src: "/outdoor-replace-final.png", alt: "Outdoor & Sport concept visual 01" },
       { src: "/outdoor-02-final.png.png", alt: "Outdoor & Sport concept visual 02" },
       { src: "/outdoor-03-final.png.png", alt: "Outdoor & Sport concept visual 03" },
-      { src: "/outdoor-03-final.png.png", alt: "Outdoor & Sport concept visual 04" },
+      { src: "/outdoor-04-final.png.png", alt: "Outdoor & Sport concept visual 04" },
     ],
   },
 ];

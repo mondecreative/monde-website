@@ -10,7 +10,7 @@ export function Footer() {
             alt="Monde"
             width={541}
             height={80}
-            className="h-8 w-auto max-w-[190px] object-contain opacity-95 sm:h-9 sm:max-w-[214px]"
+            className="h-7 w-auto max-w-[178px] object-contain opacity-95 mix-blend-screen sm:h-8 sm:max-w-[198px]"
           />
           <p className="mt-3 text-sm text-white/[0.38]">Premium creative advertising studio</p>
         </div>

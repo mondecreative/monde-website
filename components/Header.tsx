@@ -25,7 +25,7 @@ export function Header() {
             width={541}
             height={80}
             priority
-            className="h-7 w-auto max-w-[168px] object-contain opacity-95 sm:h-8 sm:max-w-[190px]"
+            className="h-6 w-auto max-w-[158px] object-contain opacity-95 mix-blend-screen sm:h-7 sm:max-w-[178px]"
           />
         </a>
 

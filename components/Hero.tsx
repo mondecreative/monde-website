@@ -5,7 +5,7 @@ const heroImages = [
   { src: "/hero-01-final.png.png", alt: "Realistyczna kreacja produktowa beauty" },
   { src: "/outdoor-replace.png.jpg", alt: "Dynamiczna kreacja outdoorowa" },
   { src: "/hero-03-final.png.png", alt: "Premium visual do kampanii wnetrzarskiej" },
-  { src: "/hero-03-final.png.png", alt: "Kreacja lifestyle dla marki modowej" },
+  { src: "/hero-04-final.png.png", alt: "Kreacja lifestyle dla marki modowej" },
 ];
 
 export function Hero() {
