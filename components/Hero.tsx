@@ -48,7 +48,7 @@ export function Hero() {
                       fill
                       sizes="(max-width: 768px) 45vw, 260px"
                       priority={index < 2}
-                      className="object-contain p-1.5 transition duration-700 ease-out group-hover:scale-[1.025]"
+                      className="block h-full w-full object-cover transition duration-700 ease-out group-hover:scale-[1.025]"
                     />
                     <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/28 via-transparent to-white/[0.04]" />
                     <figcaption className="absolute bottom-3 left-3 rounded-full border border-white/10 bg-black/35 px-2.5 py-1 text-[9px] uppercase tracking-[0.16em] text-white/[0.62] backdrop-blur-md">

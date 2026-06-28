@@ -20,12 +20,12 @@ export function Header() {
       <div className="shell flex h-16 items-center justify-between lg:h-[76px]">
         <a href="#" className="flex h-10 items-center" aria-label="Monde - strona glowna">
           <Image
-            src="/logo-monde.png.webp"
+            src="/logo.png"
             alt="Monde"
             width={541}
             height={80}
             priority
-            className="h-6 w-auto max-w-[158px] object-contain opacity-95 mix-blend-screen sm:h-7 sm:max-w-[178px]"
+            className="block h-[clamp(34px,4.5vw,48px)] w-auto max-w-[210px] object-contain"
           />
         </a>
 

@@ -6,11 +6,11 @@ export function Footer() {
       <div className="shell flex flex-col gap-8 sm:flex-row sm:items-end sm:justify-between">
         <div>
           <Image
-            src="/logo-monde.png.webp"
+            src="/logo.png"
             alt="Monde"
             width={541}
             height={80}
-            className="h-7 w-auto max-w-[178px] object-contain opacity-95 mix-blend-screen sm:h-8 sm:max-w-[198px]"
+            className="block h-[clamp(38px,5vw,56px)] w-auto max-w-[230px] object-contain"
           />
           <p className="mt-3 text-sm text-white/[0.38]">Premium creative advertising studio</p>
         </div>
